@@ -4,4 +4,4 @@
 --- Started Frontend development ---
 
        Some basic codes of HTML5-
-                      *No need of sharing link of the practise it was just the basics.*
+                      *No need of sharing link of the practise it was just the basics..*
