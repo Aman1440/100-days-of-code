@@ -10,3 +10,6 @@
 
        basic html code will share the link soon
                            "Practising anchor"
+### Day 2: June 26 2020
+--- Learning responsive web designs an dead links with hash symbol
+              link to work- https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol
