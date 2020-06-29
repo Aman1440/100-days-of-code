@@ -16,3 +16,5 @@
 
 ### Day 3: June 27 2020
 --- Practising to make forms with HTML n HTML5
+### Day 4: June 29 2020
+       --- Done with HTML n HTML5 revision will be working on CSS from tommorow.
