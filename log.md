@@ -21,3 +21,10 @@
 ### Day 5: June 30 2020
        --- Learning about the Class n styling of element
        `      link to work-
+
+### Day 6: June 1 2020
+             
+             
+### Day 7: June 2 2020
+
+####style
