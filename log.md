@@ -38,3 +38,9 @@
 
 #### style
           --- Degrading fonts and using class, setting up images (resizing) 
+          
+### Day 8: June 3 2020
+
+           --- CSS is great making HTML more efficient.
+           
+           ### learnt about border edits, changing the sizes of images and the edges. 
