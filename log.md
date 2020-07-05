@@ -30,17 +30,22 @@
        --- Learning about the Class n styling of element
        `      CSS is Interesting. Today I learnt about the font designing by using class. Just some here and there and you are done with some amazing way of showing your text.
 
-### Day 6: June 1 2020
+### Day 6: July 1 2020
        
        ---Got introduced with the style tag which is again something very interesting. Importing fonts was the task i Did today.
              
-### Day 7: June 2 2020
+### Day 7: July 2 2020
 
 #### style
           --- Degrading fonts and using class, setting up images (resizing) 
           
-### Day 8: June 3 2020
+### Day 8: July 3 2020
 
            --- CSS is great making HTML more efficient.
            
-           ### learnt about border edits, changing the sizes of images and the edges. 
+           ### learnt about border edits, changing the sizes of images and the edges.
+           
+### Day 9: July 5 2020
+
+            Practised: Checking out the cool feature of overwriting in CSS, this practise was really needed and cleared my earlier doubts.
+            Development: I tried using this feature and wrote classes, declared id's, styles too... though if we put !important after the color we required than that cant be overwritten.
