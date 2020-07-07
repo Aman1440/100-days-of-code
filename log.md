@@ -49,3 +49,13 @@
 
             Practised: Checking out the cool feature of overwriting in CSS, this practise was really needed and cleared my earlier doubts.
             Development: I tried using this feature and wrote classes, declared id's, styles too... though if we put !important after the color we required than that cant be overwritten.
+            
+### Day 10: July 6 2020
+
+            Practised: Made a fallback value for the variables, also tried the inheritance of CSS variables, Improved compatiblity of variables.
+           Experience: Making variable variable, adding fallback values is always neccessary for different situations.
+           
+### Day 11: july 7 2020
+ 
+            Practised: tags for making the text in different alignment styles like bold, underlined,italic and etc.
+            Development: Adding tags and fonts that make the Text more understandable and readble is always needed!! Adjusting the texts by adding this amazing tags was really a great experience.
