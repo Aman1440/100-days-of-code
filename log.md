@@ -59,3 +59,7 @@
  
             Practised: tags for making the text in different alignment styles like bold, underlined,italic and etc.
             Development: Adding tags and fonts that make the Text more understandable and readble is always needed!! Adjusting the texts by adding this amazing tags was really a great experience.
+            
+### Day 12: July 8 2020
+             Practised: Set the line-height of Paragraph and tried to set alignments, font sizes, font weight.
+             Development: Adjusting fonts adding alignments.
