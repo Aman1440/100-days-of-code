@@ -63,3 +63,7 @@
 ### Day 12: July 8 2020
              Practised: Set the line-height of Paragraph and tried to set alignments, font sizes, font weight.
              Development: Adjusting fonts adding alignments.
+             
+### Day 13: July 9 2020
+              Practised: Using CSS to adjust elements for example using the z- index thing and using the positioning tool to set a position.
+              Development: Now, I am able to figure out the different types of websites having floating, fixed contents on the top and bottom.
