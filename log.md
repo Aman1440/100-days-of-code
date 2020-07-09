@@ -67,3 +67,9 @@
 ### Day 13: July 9 2020
               Practised: Using CSS to adjust elements for example using the z- index thing and using the positioning tool to set a position.
               Development: Now, I am able to figure out the different types of websites having floating, fixed contents on the top and bottom.
+
+### Day 14: July 10 2020
+              Practised: practised complementary colors, linear gradient and the transform scale property today.
+                         And it really amazed me when i tried using hover n scale together. 
+              Development: I can now make use of hover and scale at the same time to make the size of element bigger or smaller.
+                           I also learned about using of complementary colors..
