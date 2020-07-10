@@ -73,3 +73,6 @@
                          And it really amazed me when i tried using hover n scale together. 
               Development: I can now make use of hover and scale at the same time to make the size of element bigger or smaller.
                            I also learned about using of complementary colors..
+### Day 15: July 11 2020
+             Practised: Visual designs {Animations}
+           Development: tried using the animation function and used the animation to hover over a button and change the color for n secs. Animation made Css more attractive. I used many functions by which animations would look better and also changed their paths and timings by which in case of many animations at one partical page could look different too.
