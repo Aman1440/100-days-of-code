@@ -80,3 +80,7 @@
 ### Day 16: July 12 2020
              Practised: tried bezier curves, fetching more details and correct usage of div, article, nav tags, tried to use tags for audio content too.
              Development: tried to use curve and animations to make a dribbling move, also used tags to know more about their usage, and used audio tag to give                       support to audio files.
+          
+### Day 17: July 13 2020
+            Practised: Labels, figure, for function in label
+            Development: to get the input option from the user we need to add few functions.
