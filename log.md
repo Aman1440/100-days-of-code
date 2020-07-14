@@ -84,3 +84,10 @@
 ### Day 17: July 13 2020
             Practised: Labels, figure, for function in label
             Development: to get the input option from the user we need to add few functions.
+            
+### Day 18: July 14 2020
+            Practised: changed color contrast with hsl and made the page more visible.
+          
+### Day 19: July 15 2020
+            Practised: used accesskeys, Tabindex
+            Development: Completed applied accessibilty 
