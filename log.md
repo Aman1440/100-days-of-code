@@ -93,3 +93,7 @@
             Development: Completed applied accessibilty
 --- Completed responsive web design princples
             made a media query, and also tried to make the web page more responsive by including viewpoint dimensions.
+   
+### Day 20: July 16 2020
+            Practised: Started with flexbox challenges.
+            Development: With the help of flex we can use multiple styles in a flexible manner that is by bringing them into proper styles
