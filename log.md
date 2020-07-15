@@ -90,4 +90,6 @@
           
 ### Day 19: July 15 2020
             Practised: used accesskeys, Tabindex
-            Development: Completed applied accessibilty 
+            Development: Completed applied accessibilty
+--- Completed responsive web design princples
+            made a media query, and also tried to make the web page more responsive by including viewpoint dimensions.
