@@ -97,3 +97,7 @@
 ### Day 20: July 16 2020
             Practised: Started with flexbox challenges.
             Development: With the help of flex we can use multiple styles in a flexible manner that is by bringing them into proper styles
+            
+### Day 21: July 17 2020
+             practice: Completed Flexbox.
+             Development: flexbox is a great set of managing the styles and alignments.
