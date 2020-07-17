@@ -101,3 +101,7 @@
 ### Day 21: July 17 2020
              practice: Completed Flexbox.
              Development: flexbox is a great set of managing the styles and alignments.
+             
+### Day 22: July 18 2020
+              Practise: worked on grids and their alignments.
+              Development: Used justify self and align self, also used the auto fill and auto fit to adjust the grids.
