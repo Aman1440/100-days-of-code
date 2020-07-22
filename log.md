@@ -12,7 +12,7 @@
                            "Practising anchor"
 ### Day 2: June 26 2020
 --- Learning responsive web designs an dead links with hash symbol
-              link to work- https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol
+              link to work[1]:https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol
 
 ### Day 3: June 27 2020
        
@@ -109,3 +109,17 @@
 ### Day 23: July 19 2020
               Practiced: Grids almost completed would be working on projects soon.
               Development: Now I can work with grids.
+              
+### Day 24: July 20 2020
+
+
+#####Started working on my first project on frontend with HTML n CSS
+
+### Day 25: July 21 2020
+       Below link is the tribute page project link:
+       done my first project would be adding more styles and animated soon[link text itself]
+       [link text itself]: https://codepen.io/Aman1440/full/abdQgzQ
+       
+       
+       
+       
