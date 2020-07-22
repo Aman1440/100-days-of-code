@@ -11,8 +11,8 @@
        basic html code will share the link soon
                            "Practising anchor"
 ### Day 2: June 26 2020
---- Learning responsive web designs an dead links with hash symbol
-              link to work[1]:https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol
+--- Learning responsive web designs an dead links with hash symbol:
+              link to work [click here](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol)
 
 ### Day 3: June 27 2020
        
@@ -113,13 +113,21 @@
 ### Day 24: July 20 2020
 
 
-#####Started working on my first project on frontend with HTML n CSS
+##### Started working on my first project on frontend with HTML n CSS
 
 ### Day 25: July 21 2020
        Below link is the tribute page project link:
-       done my first project would be adding more styles and animated soon[link text itself]
-       [link text itself]: https://codepen.io/Aman1440/full/abdQgzQ
        
        
+       done my first project would be adding more styles and animated soon [Project link]
+       (https://codepen.io/Aman1440/full/abdQgzQ)
+       
+### Day 26: July 22 2020
+       
+       
+##### Started the second project on frontend with HTML and CSS
+              
+              
+              [Link to work:](https://codepen.io/freeCodeCamp/pen/MJjpwO)
        
        
