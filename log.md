@@ -105,3 +105,7 @@
 ### Day 22: July 18 2020
               Practise: worked on grids and their alignments.
               Development: Used justify self and align self, also used the auto fill and auto fit to adjust the grids.
+              
+### Day 23: July 19 2020
+              Practiced: Grids almost completed would be working on projects soon.
+              Development: Now I can work with grids.
