@@ -129,5 +129,11 @@
               
               
               [Link to work:](https://codepen.io/freeCodeCamp/pen/MJjpwO)
+              
+              
+### Day 27: July 23 2020
+
+made a mistake of not saving of code yesterday so had to start again from scratch , completed few test cases today. 
+For the Survey form project.
        
        
