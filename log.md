@@ -136,4 +136,8 @@
 made a mistake of not saving of code yesterday so had to start again from scratch , completed few test cases today. 
 For the Survey form project.
        
-       
+### Day 28: July 24 2020
+
+Made half of the page would be making the half tommorow.
+
+
