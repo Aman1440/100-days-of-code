@@ -140,4 +140,6 @@ For the Survey form project.
 
 Made half of the page would be making the half tommorow.
 
+### Day 29: July 25 2020
 
+Completed the Survey form project. Its just a form made with the help of HTML and CSS.
