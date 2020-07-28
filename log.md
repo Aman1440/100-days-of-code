@@ -143,3 +143,7 @@ Made half of the page would be making the half tommorow.
 ### Day 29: July 25 2020
 
 Completed the Survey form project. Its just a form made with the help of HTML and CSS.
+
+### Day 30: July 26 2020
+
+Started the Landing page project. Comitted a little on Survey form too.
