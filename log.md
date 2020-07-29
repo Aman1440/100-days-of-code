@@ -147,3 +147,11 @@ Completed the Survey form project. Its just a form made with the help of HTML an
 ### Day 30: July 26 2020
 
 Started the Landing page project. Comitted a little on Survey form too.
+
+### Day 31: July 27 2020
+
+Completed few test cases of landing page project.
+
+
+
+
