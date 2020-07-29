@@ -152,6 +152,8 @@ Started the Landing page project. Comitted a little on Survey form too.
 
 Completed few test cases of landing page project.
 
+### Day 32: July 28 2020
+Stuck in Nav-link test-case. trying to revise it through youtube and w3schools.
 
 
 
