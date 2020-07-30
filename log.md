@@ -155,5 +155,9 @@ Completed few test cases of landing page project.
 ### Day 32: July 28 2020
 Stuck in Nav-link test-case. trying to revise it through youtube and w3schools.
 
+### Day 33: July 29 2020
+
+Completed the Html part of the landing project.
+
 
 
