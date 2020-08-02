@@ -159,5 +159,9 @@ Stuck in Nav-link test-case. trying to revise it through youtube and w3schools.
 
 Completed the Html part of the landing project.
 
+### Day 34: July 30 2020
+      
+      Working on the styling part for the landing project, making few changes in the markup part.
+
 
 
