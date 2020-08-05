@@ -163,5 +163,9 @@ Completed the Html part of the landing project.
       
       Working on the styling part for the landing project, making few changes in the markup part.
 
+### Day 35:   Aug  2020
+
+      completed with the landing page.
+      
 
 
