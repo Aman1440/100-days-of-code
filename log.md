@@ -163,9 +163,12 @@ Completed the Html part of the landing project.
       
       Working on the styling part for the landing project, making few changes in the markup part.
 
-### Day 35:   Aug  2020
+### Day 35:  1 Aug  2020
 
       completed with the landing page.
       
+### Day 36: 2 Aug 2020
 
+       Started with the tec-doc page today.
+       
 
