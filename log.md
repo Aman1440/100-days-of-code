@@ -171,4 +171,9 @@ Completed the Html part of the landing project.
 
        Started with the tec-doc page today.
        
+       
+### Day 37: Aug 3 2020
+
+      Working on the Tec-doc page its --- figuring out with the tech content.
+      Done- Wiki n few websites , i m not making a proper tech-content page now.
 
